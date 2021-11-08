@@ -17,7 +17,7 @@ public class VariablesConexion {
     public static String URL_BBDD="jdbc:postgresql://localhost:5432/COVEFAR";
     public static String DRIVER_BBDD="org.postgresql.Driver";
     public static String USUARIO_BBDD="postgres";
-    public static String PASSWORD_BBDD="F20E1P97Mkike";
+    public static String PASSWORD_BBDD="";
     
     //Objeto para realizar la conexion
     
